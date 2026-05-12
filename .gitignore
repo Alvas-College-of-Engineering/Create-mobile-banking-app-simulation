@@ -15,6 +15,14 @@ browser_*.html
 cookies.txt
 response-headers.txt
 
+# Ignore nested project snapshot and temporary files
+MobileBankingApp/browser_*.html
+MobileBankingApp/cookies.txt
+MobileBankingApp/dashboard_page.html
+MobileBankingApp/login_page.html
+MobileBankingApp/mysql_start.*
+MobileBankingApp/response-headers.txt
+
 # Ignore IDE and OS files
 .vscode/
 Thumbs.db

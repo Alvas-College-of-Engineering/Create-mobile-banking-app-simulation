@@ -1,0 +1,8 @@
+2026-05-12T18:28:58.743827Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-05-12T18:28:59.141044Z 0 [System] [MY-010116] [Server] C:\PROGRA~1\MySQL\MYSQLS~1.4\bin\mysqld.exe (mysqld 8.4.9) starting as process 23028
+2026-05-12T18:28:59.156808Z 0 [Warning] [MY-010091] [Server] Can't create test file C:\Users\Dell\OneDrive\Desktop\MobileBankingApp\mysql_data\mysqld_tmp_file_case_insensitive_test.lower-test
+2026-05-12T18:28:59.157581Z 0 [Warning] [MY-010091] [Server] Can't create test file C:\Users\Dell\OneDrive\Desktop\MobileBankingApp\mysql_data\mysqld_tmp_file_case_insensitive_test.lower-test
+2026-05-12T18:28:59.158338Z 0 [ERROR] [MY-013276] [Server] Failed to set datadir to 'C:\Users\Dell\OneDrive\Desktop\MobileBankingApp\mysql_data\' (OS errno: 2 - No such file or directory)
+2026-05-12T18:28:59.166511Z 0 [ERROR] [MY-010119] [Server] Aborting
+2026-05-12T18:28:59.169885Z 0 [System] [MY-010910] [Server] C:\PROGRA~1\MySQL\MYSQLS~1.4\bin\mysqld.exe: Shutdown complete (mysqld 8.4.9)  MySQL Community Server - GPL.
+2026-05-12T18:28:59.169904Z 0 [System] [MY-015016] [Server] MySQL Server - end.

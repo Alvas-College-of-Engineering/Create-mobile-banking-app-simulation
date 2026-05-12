@@ -1,0 +1,25 @@
+# Ignore MySQL runtime and local data
+mysql_data/
+*.pid
+*.err
+*.out
+*.log
+
+# Ignore Tomcat runtime and temporary files
+tomcat9/apache-tomcat-9.0.99/work/
+tomcat9/apache-tomcat-9.0.99/temp/
+tomcat9/apache-tomcat-9.0.99/logs/
+
+# Ignore browser snapshot and temporary files
+browser_*.html
+cookies.txt
+response-headers.txt
+
+# Ignore IDE and OS files
+.vscode/
+Thumbs.db
+.DS_Store
+
+# Ignore local build output
+**/bin/
+**/target/

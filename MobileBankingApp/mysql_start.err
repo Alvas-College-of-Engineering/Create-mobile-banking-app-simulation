@@ -1,0 +1,14 @@
+mysqld: Can't open shared library 'C:\Program\lib\plugin\component_reference_cache.dll' (errno: 126 The specified module could not be found.)
+mysqld: Cannot load component from specified URN: 'file://component_reference_cache'.
+2026-05-12T18:24:40.789128Z 0 [System] [MY-015015] [Server] MySQL Server - start.
+2026-05-12T18:24:41.138701Z 0 [System] [MY-010116] [Server] C:\Program Files\MySQL\MySQL Server 8.4\bin\mysqld.exe (mysqld 8.4.9) starting as process 41144
+2026-05-12T18:24:41.138840Z 0 [ERROR] [MY-010338] [Server] Can't find error-message file 'C:\Program\share\english\errmsg.sys'. Check error-message file location and 'lc-messages-dir' configuration directive.
+2026-05-12T18:24:41.299015Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2026-05-12T18:24:42.659085Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2026-05-12T18:24:43.656794Z 0 [Warning] [MY-013829] [Server] Missing data directory for ICU regular expressions: C:\Program\lib\private\.
+2026-05-12T18:24:43.701880Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2026-05-12T18:24:43.703174Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2026-05-12T18:24:43.730618Z 0 [ERROR] [MY-010147] [Server] Too many arguments (first extra is 'Files\MySQL\MySQL').
+2026-05-12T18:24:43.747064Z 0 [ERROR] [MY-010119] [Server] Aborting
+2026-05-12T18:24:44.990545Z 0 [System] [MY-010910] [Server] C:\Program Files\MySQL\MySQL Server 8.4\bin\mysqld.exe: Shutdown complete (mysqld 8.4.9)  MySQL Community Server - GPL.
+2026-05-12T18:24:44.991403Z 0 [System] [MY-015016] [Server] MySQL Server - end.
